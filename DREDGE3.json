@@ -1,0 +1,15 @@
+{
+  "name": "SourceIpa",
+  "apps": [
+    {
+      "name": "DREDGE",
+      "bundleIdentifier": "com.DREDGE.app",
+      "version": "1.0",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1-hY9VhCjK_Rm6Krjvg2agTWYPhTl5s50",
+      "iconURL": "",
+
+"developerName": "Teoulisse"
+
+    }
+  ]
+}
