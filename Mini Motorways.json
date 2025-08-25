@@ -1,0 +1,20 @@
+link
+
+
+{
+  "name": "SourceForMiniMotorways",
+  "apps": [
+    {
+      "name": "Mini Motorways",
+      "bundleIdentifier": "",
+      "version": "1.16.2",
+      "versionDate": "2025-08-25T12:00:00+00:00",
+      "downloadURL": "https://www.dropbox.com/scl/fi/k4tot3n453tmm6altc31n/Mini-motorways.ipa?rlkey=vhn2w07qvqox47ovpvuby5ywt&st=qwlmnb4c&dl=1",
+      "iconURL": "https://cdn.jim-nielsen.com/ios/512/mini-motorways-2021-02-19.png?rf=1024",
+      "developerName": "Teoulisse",
+      "localizedDescription": "Gioco Mini Motorways",
+      "tintColor": "018084",
+      "size": 85
+    }
+  ]
+}
